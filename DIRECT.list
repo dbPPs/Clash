@@ -1,9 +1,11 @@
+# ！！！！！强制走直连的！！！！！
+
 # DOMAIN-SUFFIX=匹配域名后缀
 # DOMAIN-KEYWORD=匹配域名关键词
 # DOMAIN=匹配域名
 # IP-CIDR=匹配IP
 
-#steam直连下载 开始↓
+# steam直连下载 开始↓
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,*.steamcontent.com
 DOMAIN,fastly.cdn.steampipe.steamcontent.com
@@ -36,4 +38,5 @@ IP-CIDR,205.196.6.0/24
 IP-CIDR,208.64.200.0/22
 IP-CIDR,208.78.164.0/22
 IP-CIDR,205.185.194.0/24
-#steam直连下载 结束↑
+
+# steam直连下载 结束↑
