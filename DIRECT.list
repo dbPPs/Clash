@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,fastly.steamstatic.com
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steampowered.com
 IP-CIDR,45.121.184.0/24
 IP-CIDR,103.10.124.0/23
 IP-CIDR,103.28.54.0/24
@@ -40,4 +39,5 @@ IP-CIDR,208.64.200.0/22
 IP-CIDR,208.78.164.0/22
 IP-CIDR,205.185.194.0/24
 # steam直连下载 结束↑
+
 
