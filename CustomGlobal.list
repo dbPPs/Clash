@@ -6,4 +6,6 @@
 # IP-CIDR=匹配IP
 
 
+# steam商店直连（只是商店，不含下载） 开始↓
 DOMAIN-SUFFIX,steampowered.com
+# steam商店直连（只是商店，不含下载） 结束↑
