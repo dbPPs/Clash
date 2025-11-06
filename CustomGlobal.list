@@ -6,4 +6,5 @@
 # IP-CIDR=匹配IP
 
 
-DOMAIN-SUFFIX,pve.proxmox.com
+DOMAIN-SUFFIX,proxmox.com
+
