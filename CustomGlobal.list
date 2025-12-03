@@ -8,3 +8,8 @@
 
 DOMAIN-SUFFIX,proxmox.com
 
+#DNS泄露检测
+DOMAIN-SUFFIX,ipcheck.ing
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net
+#DNS泄露检测
