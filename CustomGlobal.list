@@ -7,12 +7,10 @@
 
 
 DOMAIN-SUFFIX,proxmox.com
-#这个是谷歌搜索，我把谷歌生态都走高纯净IP了，但是谷歌搜索例外
-DOMAIN-KEYWORD,www.google.
-#这个是谷歌搜索，我把谷歌生态都走高纯净IP了，但是谷歌搜索例外
 #DNS泄露检测
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,ipleak.net
 #DNS泄露检测
+
 
