@@ -7,6 +7,7 @@
 
 
 DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,novelai.net
 #DNS泄露检测
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,browserleaks.com
