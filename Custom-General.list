@@ -2,6 +2,8 @@
 # DOMAIN-KEYWORD=匹配域名关键词
 # DOMAIN=匹配域名
 # IP-CIDR=匹配IP
+#自定义规则 但是是走普通节点流量
+
 
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
