@@ -5,8 +5,8 @@
 #自定义规则 但是是走普通节点流量
 
 
-DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,anthropic.com
+
+
 DOMAIN-SUFFIX,jinjier.art
 DOMAIN-SUFFIX,fansly.com
 DOMAIN-SUFFIX,qichiyu.com
