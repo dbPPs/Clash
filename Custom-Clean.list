@@ -5,3 +5,5 @@
 #自定义规则 但是是走纯净节点流量
 
 
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
