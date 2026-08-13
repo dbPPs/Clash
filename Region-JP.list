@@ -4,6 +4,5 @@
 # IP-CIDR=匹配IP
 # 必须使用日本出口 IP 的网站
 
-DOMAIN-SUFFIX,example.jp
-DOMAIN-SUFFIX,example.com
-DOMAIN,api.example.com
+DOMAIN-SUFFIX,video.dmm.co.jp
+DOMAIN-SUFFIX,cc3001.dmm.co.jp
