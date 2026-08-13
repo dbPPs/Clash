@@ -1,3 +1,7 @@
+# DOMAIN-SUFFIX=匹配域名后缀
+# DOMAIN-KEYWORD=匹配域名关键词
+# DOMAIN=匹配域名
+# IP-CIDR=匹配IP
 # 必须使用日本出口 IP 的网站
 
 DOMAIN-SUFFIX,example.jp
