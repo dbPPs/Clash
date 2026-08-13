@@ -1,0 +1,5 @@
+# 必须使用日本出口 IP 的网站
+
+DOMAIN-SUFFIX,example.jp
+DOMAIN-SUFFIX,example.com
+DOMAIN,api.example.com
